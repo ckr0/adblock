@@ -1,3 +1,5 @@
 {
-    "code-runner.enableAppInsights": false
+    "code-runner.enableAppInsights": false,
+    "workbench.startupEditor": "none",
+    "github.gitAuthentication": false
 }
