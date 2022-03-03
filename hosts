@@ -1,759 +1,759 @@
-0.0.0.0	ntp.org
-0.0.0.0	push.apple.com
-0.0.0.0	every1dns.net
-0.0.0.0	a.ads1.msn.com
-0.0.0.0	a.ads2.msads.net
-0.0.0.0	a.ads2.msn.com
-0.0.0.0	a.rad.msn.com
-0.0.0.0	a-msedge.net
-0.0.0.0	a1051.b.akamai.net
-0.0.0.0	a1806.dscb.akamai.net.0.1.cn.akamaitech.net
-0.0.0.0	a1826.w27.akamai.net
-0.0.0.0	a2047.dscb.akamai.net
-0.0.0.0	a2047.dscb.akamai.net.0.1.cn.akamaitech.net
-0.0.0.0	a239.gi3.akamai.net.0.1.cn.akamaitech.net
-0.0.0.0	a301.dscw62d.akamai.net
-0.0.0.0	ac3.msn.com
-0.0.0.0	accounts.firefox.com
-0.0.0.0	accounts.nvgs.nvidia.com
-0.0.0.0	acctcdn.msauth.net
-0.0.0.0	acsegateway.fe.apple-dns.net
-0.0.0.0	activate.glasswire.com
-0.0.0.0	activation.gfe.nvidia.com
-0.0.0.0	ad.doubleclick.net
-0.0.0.0	adblock-data.s3.brave.com
-0.0.0.0	add0n.com
-0.0.0.0	addons.palemoon.org
-0.0.0.0	addons-pa.clients6.google.com
-0.0.0.0	adeventtracker.spotify.com
-0.0.0.0	adnexus.net
-0.0.0.0	adnxs.com
-0.0.0.0	adresults.com
-0.0.0.0	ads.mopub.com
-0.0.0.0	ads.msn.com
-0.0.0.0	ads.stickyadstv.com
-0.0.0.0	ads1.msads.net
-0.0.0.0	ads1.msn.com
-0.0.0.0	ads5-noneu.truecaller.com
-0.0.0.0	adservice.google.co.in
-0.0.0.0	adservice.google.com
-0.0.0.0	adservice.google.com.warpfire
-0.0.0.0	aidc.apple.com
-0.0.0.0	aidps.atdmt.com
-0.0.0.0	aka-cdn-ns.adtech.de
-0.0.0.0	akadns.net
-0.0.0.0	akamaitech.net
-0.0.0.0	algolia.net
-0.0.0.0	alhapi.com
-0.0.0.0	a-msedge.net
-0.0.0.0	analytics.brave.com
-0.0.0.0	analytics.swiggy.com
-0.0.0.0	android.clients.google.com
-0.0.0.0	android.googleapis.com
-0.0.0.0	api.accuweather.com
-0.0.0.0	api.ad.intl.xiaomi.com
-0.0.0.0	api.goodnotes.email
-0.0.0.0	api.media.jio.com
-0.0.0.0	api.mediawire.in
-0.0.0.0	api.msn.com
-0.0.0.0	api.onesignal.com
-0.0.0.0	api.protonmail.ch
-0.0.0.0	api.protonvpn.ch
-0.0.0.0	api.radar.cloudflare.com
-0.0.0.0	api.revenuecat.com
-0.0.0.0	api.rewards.brave.com
-0.0.0.0	api.smoot.apple.com
-0.0.0.0	api.snapcraft.io
-0.0.0.0	api.tabnine.com
-0.0.0.0	api.vectornator.io
-0.0.0.0	api2.amplitude.com
-0.0.0.0	api-edge.apps.apple.com
-0.0.0.0	api-glb-use1c.smoot.apple.com
-0.0.0.0	apiv2.moengage.com
-0.0.0.0	app.adjust.world
-0.0.0.0	app.getreplybox.com
-0.0.0.0	appldnld.apple.com
-0.0.0.0	apple-dns.net
-0.0.0.0	apple-finance.query.yahoo.com
-0.0.0.0	appleid.idms-apple.com.akadns.net
-0.0.0.0	app-measurement.com
-0.0.0.0	apps.skype.com
-0.0.0.0	app-site-association.cdn-apple.com
-0.0.0.0	argo.svcmot.com
-0.0.0.0	array601.prod.do.dsp.mp.microsoft.com
-0.0.0.0	array602.prod.do.dsp.mp.microsoft.com
-0.0.0.0	array604.prod.do.dsp.mp.microsoft.com
-0.0.0.0	array606.prod.do.dsp.mp.microsoft.com
-0.0.0.0	array609.prod.do.dsp.mp.microsoft.com
-0.0.0.0	array610.prod.do.dsp.mp.microsoft.com
-0.0.0.0	array616.prod.do.dsp.mp.microsoft.com
-0.0.0.0	assets.msn.com
-0.0.0.0	assets.onestore.ms
-0.0.0.0	au.ff.avast.sec.miui.com
-0.0.0.0	audio-fa.scdn.co
-0.0.0.0	aus5.mozilla.org
-0.0.0.0	authbe.sec.intl.miui.com
-0.0.0.0	autopush.prod.mozaws.net
-0.0.0.0	az361816.vo.msecnd.net
-0.0.0.0	az512334.vo.msecnd.net
-0.0.0.0	az764295.vo.msecnd.net
-0.0.0.0	azwancan.trafficmanager.net
-0.0.0.0	b.ads1.msn.com
-0.0.0.0	b.ads2.msads.net
-0.0.0.0	b.rad.msn.com
-0.0.0.0	b.scorecardresearch.com
-0.0.0.0	b.thumbs.redditmedia.com
-0.0.0.0	balrog-cloudfront.prod.mozaws.net
-0.0.0.0	b-api.facebook.com
-0.0.0.0	batchlogging4-noneu.truecaller.com
-0.0.0.0	b-graph.facebook.com
-0.0.0.0	bifrost-api.hotstar.com
-0.0.0.0	bingsettingssearch.trafficmanager.net
-0.0.0.0	blocklist.palemoon.org
-0.0.0.0	brave.com
-0.0.0.0	brave-core-ext.s3.brave.com
-0.0.0.0	bravesoftware.com
-0.0.0.0	browser.events.data.microsoft.com
-0.0.0.0	browser.mi-img.com
-0.0.0.0	bs.serving-sys.com
-0.0.0.0	bsy9e7pgs8.execute-api.us-west-2.amazonaws.com
-0.0.0.0	businesscalls.googleapis.com
-0.0.0.0	c.apple.news
-0.0.0.0	c.atdmt.com
-0.0.0.0	c.msn.com
-0.0.0.0	c-msedge.net
-0.0.0.0	canvas-cdn-prod.azureedge.net
-0.0.0.0	captive.apple.com
-0.0.0.0	cdn.add0n.com
-0.0.0.0	cdn.atdmt.com
-0.0.0.0	cdn.datatables.net
-0.0.0.0	cdn.fwupd.org
-0.0.0.0	cdn.getreplybox.com
-0.0.0.0	cdn.jsdelivr.net
-0.0.0.0	cdn.optimizely.com
-0.0.0.0	cdn.segment.com
-0.0.0.0	cdn.sift.com
-0.0.0.0	cdn.siftscience.com
-0.0.0.0	cdn2.getreplybox.com
-0.0.0.0	cdn-apple.com
-0.0.0.0	cds26.ams9.msecn.net
-0.0.0.0	cf.zdassets.com
-0.0.0.0	chat-amplify-ai.cdn.ampproject.org
-0.0.0.0	checkappexec.microsoft.com
-0.0.0.0	checkoutshopper-live.adyen.com
-0.0.0.0	choice.microsoft.com
-0.0.0.0	choice.microsoft.com.nsatc.net
-0.0.0.0	cid-fd191d25df318ef9.users.storage.live.com
-0.0.0.0	cl1.apple.com
-0.0.0.0	clearurls.github.io
-0.0.0.0	client.wns.windows.com
-0.0.0.0	clientconfig.passport.net
-0.0.0.0	clients.config.office.net
-0.0.0.0	clients.l.google.com
-0.0.0.0	clients1.google.com
-0.0.0.0	clients2.google.com
-0.0.0.0	cloud.tabnine.com
-0.0.0.0	cm.g.doubleclick.net
-0.0.0.0	cmodmedia.live.streamtheworld.com
-0.0.0.0	cmodmedia206.live.streamtheworld.com
-0.0.0.0	collections.md.mp.microsoft.com
-0.0.0.0	collector.github.com
-0.0.0.0	color.firefox.com
-0.0.0.0	commnat-cohort-gc.ess.apple.com
-0.0.0.0	commnat-main-gc.ess.apple.com
-0.0.0.0	comodoca.com
-0.0.0.0	compatexchange.cloudapp.net
-0.0.0.0	componentupdater.brave.com
-0.0.0.0	config.edge.skype.com
-0.0.0.0	configuration.apple.com
-0.0.0.0	configuration.ls.apple.com
-0.0.0.0	connect.facebook.net
-0.0.0.0	connectivity-check.ubuntu.com
-0.0.0.0	connman.net
-0.0.0.0	content1.jdmagicbox.com
-0.0.0.0	content-signature-2.cdn.mozilla.net
-0.0.0.0	contile.services.mozilla.com
-0.0.0.0	continuum.dds.microsoft.com
-0.0.0.0	corp.sts.microsoft.com
-0.0.0.0	corpext.msitadfs.glbdns2.microsoft.com
-0.0.0.0	cp501.prod.do.dsp.mp.microsoft.com
-0.0.0.0	cp601.prod.do.dsp.mp.microsoft.com
-0.0.0.0	crashlytics2.l.google.com
-0.0.0.0	c-ring.msedge.net
-0.0.0.0	crl.certum.pl
-0.0.0.0	crl.comodo.net
-0.0.0.0	crl.sectigo.com
-0.0.0.0	crl.thawte.com
-0.0.0.0	crl.usertrust.com
-0.0.0.0	crlsets.brave.com
-0.0.0.0	cs12.wpc.v0cdn.net
-0.0.0.0	cscasha2.ocsp-certum.com
-0.0.0.0	cssubmissions.apple.com
-0.0.0.0	cxcs.microsoft.net
-0.0.0.0	d1rv88evu3pw45.cloudfront.net
-0.0.0.0	d2t77mnxyo7adj.cloudfront.net
-0.0.0.0	da.xboxservices.com
-0.0.0.0	daisy.ubuntu.com
-0.0.0.0	darkreader.github.io
-0.0.0.0	darkreader.org
-0.0.0.0	dashboard.snapcraft.io
-0.0.0.0	data.mistat.india.xiaomi.com
-0.0.0.0	data-ai.microsoft.com
-0.0.0.0	db3aqu.atdmt.com
-0.0.0.0	default.exp-tas.com
-0.0.0.0	dejavu.apple.com
-0.0.0.0	detectportal.firefox.com
-0.0.0.0	detectportal.firefox.com.warpfire
-0.0.0.0	detectportal.palemoon.org
-0.0.0.0	deviceintegritytokens-pa.googleapis.com
-0.0.0.0	device-metrics-us.amazon.com
-0.0.0.0	device-provisioning.googleapis.com
-0.0.0.0	df.telemetry.microsoft.com
-0.0.0.0	diagassets.apple.com
-0.0.0.0	diagnostics.support.microsoft.com
-0.0.0.0	digicert.com
-0.0.0.0	displaycatalog.mp.microsoft.com
-0.0.0.0	dit.whatsapp.net
-0.0.0.0	dl.delivery.mp.microsoft.com
-0.0.0.0	dl.discordapp.net
-0.0.0.0	dm3p.wns.notify.windows.com.akadns.net
-0.0.0.0	dmd.metaservices.microsoft.com
-0.0.0.0	dns.msftncsi.com
-0.0.0.0	doh.dns.apple.com
-0.0.0.0	download.tidal.com
-0.0.0.0	download.visualstudio.microsoft.com
-0.0.0.0	download.wireguard.com
-0.0.0.0	downloads.vivaldi.com
-0.0.0.0	drmalb-677588359.eu-west-3.elb.amazonaws.com
-0.0.0.0	dua.palemoon.org
-0.0.0.0	duckduckgo.com
-0.0.0.0	e.infogram.com
-0.0.0.0	e10843.dscj.akamaiedge.net.0.1.cn.akamaiedge.net
-0.0.0.0	e124713.dscj.akamaiedge.net.0.1.cn.akamaiedge.net
-0.0.0.0	e12582.dsce12.akamaiedge.net.0.1.cn.akamaiedge.net
-0.0.0.0	e1723.g.akamaiedge.net
-0.0.0.0	e4478.a.akamaiedge.net
-0.0.0.0	e5178.dsce12.akamaiedge.net.0.1.cn.akamaiedge.net
-0.0.0.0	e673.dsce9.akamaiedge.net
-0.0.0.0	e673.dsce9.akamaiedge.net.0.1.cn.akamaiedge.net
-0.0.0.0	e6858.dscx.akamaiedge.net
-0.0.0.0	e6987.a.akamaiedge.net
-0.0.0.0	e6987.dsce9.akamaiedge.net.0.1.cn.akamaiedge.net
-0.0.0.0	e69896.dscapi6.akamaiedge.net
-0.0.0.0	e69896.dscapi6.akamaiedge.net.0.1.cn.akamaiedge.net
-0.0.0.0	e8559.dsce12.akamaiedge.net.0.1.cn.akamaiedge.net
-0.0.0.0	e8652.dscx.akamaiedge.net
-0.0.0.0	ec.atdmt.com
-0.0.0.0	ecs.office.com
-0.0.0.0	edge.gycpi.b.yahoodns.net
-0.0.0.0	edge.microsoft.com
-0.0.0.0	edgekey.net
-0.0.0.0	edge-locations5-noneu.truecaller.com
-0.0.0.0	edge-mqtt.facebook.com
-0.0.0.0	ekop.intel.com
-0.0.0.0	ematrix.filmipop.com
-0.0.0.0	encrypted-tbn0.gstatic.com
-0.0.0.0	engage.jio.com
-0.0.0.0	eu.mesk.skill.music.a2z.com
-0.0.0.0	eu.web.skill.music.a2z.com
-0.0.0.0	eu-report.live.streamtheworld.com
-0.0.0.0	events.data.microsoft.com
-0.0.0.0	events.gfestage.nvidia.com
-0.0.0.0	experiments.apple.com
-0.0.0.0	exploresites-pa.googleapis.com
-0.0.0.0	extensions.coder.com
-0.0.0.0	extensionupdater.brave.com
-0.0.0.0	external-content.duckduckgo.com
-0.0.0.0	f7hk.a.sohu.com
-0.0.0.0	fastlane.rubiconproject.com
-0.0.0.0	favicon.mars51.com
-0.0.0.0	fba.apple.com
-0.0.0.0	fbs.smoot.apple.com
-0.0.0.0	fe2.update.microsoft.com.akadns.net
-0.0.0.0	fe3cr.delivery.mp.microsoft.com
-0.0.0.0	feedback.microsoft-hohm.com
-0.0.0.0	feedback.search.microsoft.com
-0.0.0.0	feedback.windows.com
-0.0.0.0	firebaselogging-pa.googleapis.com
-0.0.0.0	firebaseremoteconfig.googleapis.com
-0.0.0.0	firebase-settings.crashlytics.com
-0.0.0.0	firefox.settings.services.mozilla.com
-0.0.0.0	flex.msn.com
-0.0.0.0	f-log-extension.grammarly.io
-0.0.0.0	fmip.fe.apple-dns.net
-0.0.0.0	fp.msedge.net
-0.0.0.0	fp-afd.azureedge.us
-0.0.0.0	fp-afd.azurefd.net
-0.0.0.0	fp-as-nocache.azureedge.net
-0.0.0.0	freestar-io.videoplayerhub.com
-0.0.0.0	friend.gc.apple.com
-0.0.0.0	fs.microsoft.com
-0.0.0.0	g.live.com
-0.0.0.0	g.msn.com
-0.0.0.0	g.whatsapp.net
-0.0.0.0	gameplay.intel.com
-0.0.0.0	gateway.fe.apple-dns.net
-0.0.0.0	gateway.icloud.com
-0.0.0.0	gdmf.apple.com
-0.0.0.0	gdmf.apple.com.akadns.net
-0.0.0.0	geforce.com
-0.0.0.0	geo.prod.do.dsp.mp.microsoft.com
-0.0.0.0	geoapi.indiatimes.com
-0.0.0.0	geover.prod.do.dsp.mp.microsoft.com
-0.0.0.0	gew1-accesspoint-e-twjs.ap.spotify.com
-0.0.0.0	gfwsl.geforce.com
-0.0.0.0	ghs-svc-https-c46.ghs-ssl.googlehosted.com
-0.0.0.0	glb.cws.prod.dcat.dsp.trafficmanager.net
-0.0.0.0	gleam.io
-0.0.0.0	gleamjs.io
-0.0.0.0	global.video.intl.xiaomi.com
-0.0.0.0	googleads.g.doubleclick.net
-0.0.0.0	googleadservices.com
-0.0.0.0	go-updater.brave.com
-0.0.0.0	gql.reddit.com
-0.0.0.0	gql-realtime.reddit.com
-0.0.0.0	grant.rewards.brave.com
-0.0.0.0	graph.facebook.com
-0.0.0.0	graph.instagram.com
-0.0.0.0	growth-pa.googleapis.com
-0.0.0.0	gsa.apple.com
-0.0.0.0	gsa.idms-apple.com.akadns.net
-0.0.0.0	gsas.apple.com
-0.0.0.0	gsp64-ssl.ls.apple.com
-0.0.0.0	gsp85-ssl.ls.apple.com
-0.0.0.0	gspe11-ssl.ls.apple.com.edgekey.net
-0.0.0.0	gspe19-ssl.ls.apple.com
-0.0.0.0	gspe1-ssl.ls.apple.com
-0.0.0.0	gspe35-ssl.ls.apple.com
-0.0.0.0	gsp-ssl.ls.apple.com
-0.0.0.0	guzzoni.apple.com
-0.0.0.0	guzzoni-apple-com.v.aaplimg.com
-0.0.0.0	gvt1.com
-0.0.0.0	gwbudgetali.iymedia.me
-0.0.0.0	h1.msn.com
-0.0.0.0	heads-ak-spotify-com.akamaized.net
-0.0.0.0	helu.alhapi.com
-0.0.0.0	hktko1.icloud-content.com
-0.0.0.0	hn.algolia.com
-0.0.0.0	housekeeping.sudosecuritygroup.com
-0.0.0.0	html.duckduckgo.com
-0.0.0.0	html5-player.libsyn.com
-0.0.0.0	httpsapp-measurement.comsdk-exp
-0.0.0.0	httpswww.swiggy.com
-0.0.0.0	i.duckduckgo.com
-0.0.0.0	i.imgur.com
-0.0.0.0	i1.services.social.microsoft.com
-0.0.0.0	i1.services.social.microsoft.com.nsatc.net
-0.0.0.0	ichnaea-web.netflix.com
-0.0.0.0	icloud.com
-0.0.0.0	id.google.com
-0.0.0.0	identitytoolkit.googleapis.com
-0.0.0.0	image.timespoints.iimg.in
-0.0.0.0	images.ctfassets.net
-0.0.0.0	imasdk.googleapis.com
-0.0.0.0	img-prod-cms-rt-microsoft-com.akamaized.net
-0.0.0.0	impression.appsflyer.com
-0.0.0.0	improving.duckduckgo.com
-0.0.0.0	in.appcenter.ms
-0.0.0.0	inappcheck.itunes.apple.com
-0.0.0.0	inappcheck-lb.itunes-apple.com.akadns.net
-0.0.0.0	incoming.telemetry.mozilla.org
-0.0.0.0	inference.location.live.net
-0.0.0.0	infinitedata-pa.googleapis.com
-0.0.0.0	init.ess.apple.com
-0.0.0.0	init.push.apple.com
-0.0.0.0	init-p01md.apple.com
-0.0.0.0	inputsuggestions.msdxcdn.microsoft-ppe.com
-0.0.0.0	insiderservice.microsoft.com
-0.0.0.0	insideruser.microsoft.com
-0.0.0.0	insights-collector.newrelic.com
-0.0.0.0	instagram.c10r.facebook.com
-0.0.0.0	intc-keyid-17a00575d05e58e3881210bb98b1045bb4c30639.microsoftaik.azure.net
-0.0.0.0	ipcdn.apple.com
-0.0.0.0	iphone-ld.apple.com
-0.0.0.0	iphonesubmissions.apple.com
-0.0.0.0	iphonesubmissions.apple.com.akadns.net
-0.0.0.0	ipv4.duiadns.net
-0.0.0.0	isitup.org
-0.0.0.0	itunes-cdn.itunes-apple.com.akadns.net
-0.0.0.0	jcmsfd.account.microsoft.com
-0.0.0.0	jioads.akamaized.net
-0.0.0.0	jiomedia.akamaized.net
-0.0.0.0	jpdp.jpdc.jiophone.net
-0.0.0.0	js.stripe.com
-0.0.0.0	jsdelivr.map.fastly.net
-0.0.0.0	js-sec.indexww.com
-0.0.0.0	ka-f.fontawesome.com.cdn.cloudflare.net
-0.0.0.0	keyvalueservice.fe.apple-dns.net
-0.0.0.0	kit.fontawesome.com
-0.0.0.0	kit.fontawesome.com.cdn.cloudflare.net
-0.0.0.0	k-ring.msedge.net
-0.0.0.0	kt-prod.apple.com
-0.0.0.0	laptop-updates.brave.com
-0.0.0.0	launches.appsflyer.com
-0.0.0.0	lb1.www.ms.akadns.net
-0.0.0.0	lcdn-locator.apple.com
-0.0.0.0	licensing.mp.microsoft.com
-0.0.0.0	link-reports-noneu.truecaller.com
-0.0.0.0	links.duckduckgo.com
-0.0.0.0	live.rads.msn.com
-0.0.0.0	livetileedge.dsx.mp.microsoft.com
-0.0.0.0	locate.measurementlab.net
-0.0.0.0	location.services.mozilla.com
-0.0.0.0	location.services.mozilla.com.warpfire
-0.0.0.0	locprod1-elb-eu-west-1.prod.mozaws.net
-0.0.0.0	logfiles.zoom.us
-0.0.0.0	logincdn.msauth.net
-0.0.0.0	logs.juspay.in
-0.0.0.0	logs-01.loggly.com
-0.0.0.0	l-ring.msedge.net
-0.0.0.0	m.adnxs.com
-0.0.0.0	m.hotmail.com
-0.0.0.0	mail-ads.google.com
-0.0.0.0	market.xiaomi.com
-0.0.0.0	marketplace.visualstudio.com
-0.0.0.0	mask.icloud.com
-0.0.0.0	mask-api.icloud.com
-0.0.0.0	mask-h2.icloud.com
-0.0.0.0	mdh-pa.googleapis.com
-0.0.0.0	mem.gfx.ms
-0.0.0.0	messaging.deezer.com
-0.0.0.0	messenger-noneu.truecaller.com
-0.0.0.0	mesu.apple.com
-0.0.0.0	mesu-cdn.origin-apple.com.akadns.net
-0.0.0.0	metrics.icloud.com
-0.0.0.0	metrics.torproject.org
-0.0.0.0	mimir.vivaldi.com
-0.0.0.0	misc.spotifycdn.com
-0.0.0.0	mobileapp.apple.com
-0.0.0.0	mobile-collector.newrelic.com
-0.0.0.0	mobile-data.s3.brave.com
-0.0.0.0	mobilenetworkscoring-pa.googleapis.com
-0.0.0.0	moto-cds.appspot.com
-0.0.0.0	mozilla.cloudflare-dns.com
-0.0.0.0	mrb.upapi.net
-0.0.0.0	mrodevicemgr.officeapps.live.com
-0.0.0.0	mrs08s02-in-x0a.1e100.net
-0.0.0.0	msedge.api.cdp.microsoft.com
-0.0.0.0	msedge.f.tlu.dl.delivery.mp.microsoft.com
-0.0.0.0	msedge.net
-0.0.0.0	msftconnecttest.com
-0.0.0.0	msftncsi.com
-0.0.0.0	msnbot-65-55-108-23.search.msn.com
-0.0.0.0	msntest.serving-sys.com
-0.0.0.0	musicart.xboxlive.com
-0.0.0.0	na.web.skill.music.a2z.com
-0.0.0.0	nav.smartscreen.microsoft.com
-0.0.0.0	nc-pod4-smp-device.apple.com
-0.0.0.0	netcts.cdn-apple.com
-0.0.0.0	netdna.bootstrapcdn.com
-0.0.0.0	news.iadsdk.apple.com
-0.0.0.0	nexusrules.officeapps.live.com
-0.0.0.0	normandy.cdn.mozilla.net
-0.0.0.0	notifications5-noneu.truecaller.com
-0.0.0.0	npcoins.indiatimes.com
-0.0.0.0	ntp.msn.com
-0.0.0.0	ntp.ubuntu.com
-0.0.0.0	o.ss2.us
-0.0.0.0	o45439.ingest.sentry.io
-0.0.0.0	o497639.ingest.sentry.io
-0.0.0.0	oca.telemetry.microsoft.com
-0.0.0.0	oca.telemetry.microsoft.com.nsatc.net
-0.0.0.0	ocsp.digicert.com
-0.0.0.0	ocsp.intel.com
-0.0.0.0	ocsp.msocsp.com
-0.0.0.0	ocsp.pki.goog
-0.0.0.0	ocsp.quovadisoffshore.com
-0.0.0.0	ocsp.rootca1.amazontrust.com
-0.0.0.0	ocsp.rootg2.amazontrust.com
-0.0.0.0	ocsp.sectigo.com
-0.0.0.0	ocsp.starfieldtech.com
-0.0.0.0	ocsp.thawte.com
-0.0.0.0	ocsp.usertrust.com
-0.0.0.0	ocsp2.apple.com
-0.0.0.0	ocsp-lb.apple.com.akadns.net
-0.0.0.0	ocsps.ssl.com
-0.0.0.0	office.net
-0.0.0.0	officecdn.microsoft.com
-0.0.0.0	officeclient.microsoft.com
-0.0.0.0	ogs.google.com
-0.0.0.0	olympia.prod.mozaws.net
-0.0.0.0	oneclient.sfx.ms
-0.0.0.0	oneocsp.microsoft.com
-0.0.0.0	onesignal.com
-0.0.0.0	open-vsx.org
-0.0.0.0	otf.msn.com
-0.0.0.0	otx.alienvault.com
-0.0.0.0	p111-fmfmobile.icloud.com
-0.0.0.0	p111-quota.icloud.com
-0.0.0.0	p25-imap.mail.me.com.akadns.net
-0.0.0.0	p25-mailws.icloud.com
-0.0.0.0	p3a.brave.com
-0.0.0.0	p42-caldav.icloud.com
-0.0.0.0	p42-mailws.icloud.com
-0.0.0.0	p49-fmf.icloud.com
-0.0.0.0	p49-fmfmobile.icloud.com
-0.0.0.0	p49-fmip.icloud.com
-0.0.0.0	p53-imap.mail.me.com.akadns.net
-0.0.0.0	p53-mailws.icloud.com
-0.0.0.0	packages.dmd.metaservices.microsoft.com
-0.0.0.0	pagead2.googlesyndication.com
-0.0.0.0	pagead46.l.doubleclick.net
-0.0.0.0	palemoon.org
-0.0.0.0	pancake.apple.com
-0.0.0.0	part-0020.t-0009.t-msedge.net
-0.0.0.0	partiality.itunes.apple.com
-0.0.0.0	partner.googleadservices.com
-0.0.0.0	partnerad.l.doubleclick.net
-0.0.0.0	passport.mobilenations.com
-0.0.0.0	paymentinstruments.mp.microsoft.com
-0.0.0.0	payments.juspay.in
-0.0.0.0	pcdn.brave.com
-0.0.0.0	peoplestackwebexperiments-pa.clients6.google.com
-0.0.0.0	phonedeviceverification-pa.googleapis.com
-0.0.0.0	ping.bejbej.ca
-0.0.0.0	pixel.quantserve.com
-0.0.0.0	pki.intel.com
-0.0.0.0	platform.instagram.com
-0.0.0.0	plugins.jetbrains.com
-0.0.0.0	plus.l.google.com
-0.0.0.0	pool.ntp.org
-0.0.0.0	popper.ai
-0.0.0.0	pps.whatsapp.net
-0.0.0.0	pre.footprintpredict.com
-0.0.0.0	premium-noneu.truecaller.com
-0.0.0.0	presence-grpc-noneu.truecaller.com
-0.0.0.0	preview.msn.com
-0.0.0.0	preview.redd.it
-0.0.0.0	pricelist.skype.com
-0.0.0.0	prod.detectportal.prod.cloudops.mozgcp.net
-0.0.0.0	prod.intellicode.vsengsaas.visualstudio.com
-0.0.0.0	profile.gc.apple.com
-0.0.0.0	profile.gc.fe.apple-dns.net
-0.0.0.0	protonstatus.com
-0.0.0.0	proxy.safebrowsing.apple
-0.0.0.0	proxy.vox-cpaas.in
-0.0.0.0	pubads.g.doubleclick.net
-0.0.0.0	purchase.mp.microsoft.com
-0.0.0.0	push.services.mozilla.com
-0.0.0.0	pv.sohu.com
-0.0.0.0	q-ring.msedge.net
-0.0.0.0	query.ess.apple.com
-0.0.0.0	quota.fe.apple-dns.net
-0.0.0.0	qwant.com
-0.0.0.0	r3.o.lencr.org
-0.0.0.0	rad.live.com
-0.0.0.0	rad.msn.com
-0.0.0.0	rcs-acs-airtel-india.jibe.google.com
-0.0.0.0	rcs-acs-vodafone-idea-india.jibe.google.com
-0.0.0.0	recade.clmbtech.com
-0.0.0.0	redir.metaservices.microsoft.com
-0.0.0.0	redirector.brave.com
-0.0.0.0	redirector.gvt1.com
-0.0.0.0	registry.npmjs.org
-0.0.0.0	registry.yarnpkg.com
-0.0.0.0	release.kite.com
-0.0.0.0	releases.libreelec.tv
-0.0.0.0	reports.crashlytics.com
-0.0.0.0	reports.wes.df.telemetry.microsoft.com
-0.0.0.0	resolver.msg.global.xiaomi.net
-0.0.0.0	rewards.brave.com
-0.0.0.0	rm-as.palemoon.org
-0.0.0.0	rules2.clearurls.xyz
-0.0.0.0	rum-http-intake.logs.datadoghq.com
-0.0.0.0	s.gateway.messenger.live.com
-0.0.0.0	s.mopub.com
-0.0.0.0	s.w.org
-0.0.0.0	s1.symcb.com
-0.0.0.0	s2k7tnzlhrpw.statuspage.io
-0.0.0.0	safebrowsing.apple
-0.0.0.0	safebrowsing.brave.com
-0.0.0.0	safebrowsing.googleapis.com
-0.0.0.0	sandbox.itunes.apple.com
-0.0.0.0	sb.scorecardresearch.com
-0.0.0.0	sb-ssl.brave.com
-0.0.0.0	schemas.microsoft.akadns.net 
-0.0.0.0	schemastore.azurewebsites.net
-0.0.0.0	scone-pa.clients6.google.com
-0.0.0.0	secure.adnxs.com
-0.0.0.0	secure.flashtalking.com
-0.0.0.0	secure.gravatar.com
-0.0.0.0	securepubads.g.doubleclick.net
-0.0.0.0	self.events.data.microsoft.com
-0.0.0.0	semanticlocation-pa.googleapis.com
-0.0.0.0	semanticlocation-pa.googleapis.com.can
-0.0.0.0	sentry.io
-0.0.0.0	service.weather.microsoft.com
-0.0.0.0	services.gfe.nvidia.com
-0.0.0.0	services.gradle.org
-0.0.0.0	services.prod.mozaws.net
-0.0.0.0	services.wes.df.telemetry.microsoft.com
-0.0.0.0	settings.crashlytics.com
-0.0.0.0	settingsfd-geo.trafficmanager.net
-0.0.0.0	settings-prod-sea-2.southeastasia.cloudapp.azure.com
-0.0.0.0	settings-sandbox.data.microsoft.com
-0.0.0.0	settings-win.data.microsoft.com
-0.0.0.0	setup.fe.apple-dns.net
-0.0.0.0	setup.icloud.com
-0.0.0.0	sg2p.wns.notify.windows.com.akadns.net
-0.0.0.0	share.newsroom.apple
-0.0.0.0	sharing-config.spotifycdn.com
-0.0.0.0	shavar.services.mozilla.com
-0.0.0.0	shavar.services.mozilla.com.warpfire
-0.0.0.0	sheets.googleapis.com
-0.0.0.0	siri.com
-0.0.0.0	slike.indiatimes.com
-0.0.0.0	sls.update.microsoft.com.akadns.net
-0.0.0.0	smp-device.apple.com
-0.0.0.0	smp-device-content.apple.com
-0.0.0.0	so.2mdn.net
-0.0.0.0	social.ndtv.com
-0.0.0.0	sparkcdneus2.azureedge.net
-0.0.0.0	sparkcdnwus2.azureedge.net
-0.0.0.0	spo-ring.msedge.net
-0.0.0.0	sqm.df.telemetry.microsoft.com
-0.0.0.0	sqm.telemetry.microsoft.com
-0.0.0.0	sqm.telemetry.microsoft.com.nsatc.net
-0.0.0.0	ssl.google-analytics.com
-0.0.0.0	ssl-google-analytics.l.google.com
-0.0.0.0	ssllabs.com
-0.0.0.0	ssl-static.libsyn.com
-0.0.0.0	star.c10r.facebook.com
-0.0.0.0	starfieldtech.com
-0.0.0.0	start.duckduckgo.com
-0.0.0.0	static.2mdn.net
-0.0.0.0	static.alhapi.com
-0.0.0.0	static.bejbej.ca
-0.0.0.0	static.chartbeat.com
-0.0.0.0	static.clmbtech.com
-0.0.0.0	static.growthrx.in
-0.0.0.0	static.libsyn.com
-0.0.0.0	static.nvidiagrid.net
-0.0.0.0	static.social.ndtv.com
-0.0.0.0	static1.brave.com
-0.0.0.0	staticcdn.duckduckgo.com
-0.0.0.0	statics-marketingsites-eas-ms-com.akamaized.net
-0.0.0.0	statsfe1.ws.microsoft.com
-0.0.0.0	statsfe2.update.microsoft.com.akadns.net
-0.0.0.0	statsfe2.ws.microsoft.com
-0.0.0.0	stattprint.s.llnwi.net
-0.0.0.0	status.geotrust.com
-0.0.0.0	storeedgefd.dsx.mp.microsoft.com
-0.0.0.0	store-images.microsoft.com
-0.0.0.0	store-images.s-microsoft.com
-0.0.0.0	subca.ocsp-certum.com
-0.0.0.0	sublimetext.com
-0.0.0.0	subs.timesofindia.com
-0.0.0.0	support.mozilla.org
-0.0.0.0	survey.watson.microsoft.com
-0.0.0.0	swallow.apple.com
-0.0.0.0	t-0009.t-msedge.net
-0.0.0.0	telecommand.telemetry.microsoft.com
-0.0.0.0	telecommand.telemetry.microsoft.com.nsatc.net
-0.0.0.0	telemetry.appex.bing.net
-0.0.0.0	telemetry.malwarebytes.com
-0.0.0.0	telemetry.microsoft.com
-0.0.0.0	telemetry.urs.microsoft.com
-0.0.0.0	telephonyspamprotect-pa.googleapis.com
-0.0.0.0	testflight.apple.com
-0.0.0.0	tilanalytics.timesinternet.in
-0.0.0.0	time.android.com
-0.0.0.0	time.apple.com
-0.0.0.0	time.izatcloud.net
-0.0.0.0	time.windows.com
-0.0.0.0	time-ios.apple.com
-0.0.0.0	tinyurl.com
-0.0.0.0	tinywall.pados.hu
-0.0.0.0	tlu.dl.delivery.mp.microsoft.com
-0.0.0.0	tm.lg.prod.aadmsa.trafficmanager.net
-0.0.0.0	t-msedge.net
-0.0.0.0	token.safebrowsing.apple
-0.0.0.0	tpapi.timespoints.com
-0.0.0.0	tpc.googlesyndication.com
-0.0.0.0	tr.www.cloudflare.com
-0.0.0.0	track.adform.net
-0.0.0.0	tracking.india.miui.com
-0.0.0.0	tracking.shaadi.com
-0.0.0.0	translate.google.com
-0.0.0.0	trendmicro.com
-0.0.0.0	tsfe.trafficmanager.net
-0.0.0.0	tsfe.trafficshaping.dsp.mp.microsoft.com
-0.0.0.0	tvid.in
-0.0.0.0	uci.cdn.office.net
-0.0.0.0	ui.skype.com
-0.0.0.0	ui-avatars.com
-0.0.0.0	universalstore.streaming.mediaservices.windows.net
-0.0.0.0	unpkg.com
-0.0.0.0	update.code.visualstudio.com
-0.0.0.0	update.glasswire.com
-0.0.0.0	update.googleapis.com
-0.0.0.0	update.libreelec.tv
-0.0.0.0	update.tabnine.com
-0.0.0.0	update.vivaldi.com
-0.0.0.0	updates.bravesoftware.com
-0.0.0.0	updates.cdn-apple.com
-0.0.0.0	updates-cdn.bravesoftware.com
-0.0.0.0	updates-http.cdn-apple.com
-0.0.0.0	use.typekit.net
-0.0.0.0	user.india.com
-0.0.0.0	userreco.indiatimes.com
-0.0.0.0	v10.events.data.microsoft.com
-0.0.0.0	v20.events.data.microsoft.com
-0.0.0.0	valid.apple.com
-0.0.0.0	variations.brave.com
-0.0.0.0	verifiedsms-pa.googleapis.com
-0.0.0.0	verifiedsms-pa.googleapis.com.warpfire
-0.0.0.0	versioncheck.prod.mozaws.net
-0.0.0.0	videoplayer.indiatimes.com
-0.0.0.0	view.atdmt.com
-0.0.0.0	vivaldi.com
-0.0.0.0	voip-noneu.truecaller.com
-0.0.0.0	vortex.data.microsoft.com
-0.0.0.0	vortex-bn2.metron.live.com.nsatc.net
-0.0.0.0	vortex-cy2.metron.live.com.nsatc.net
-0.0.0.0	vortex-sandbox.data.microsoft.com
-0.0.0.0	vortex-win.data.microsoft.com
-0.0.0.0	vpn.mozilla.org
-0.0.0.0	vscodeexperiments.azureedge.net
-0.0.0.0	waitlist.goodnotesplatform.com
-0.0.0.0	watson.live.com
-0.0.0.0	watson.microsoft.com
-0.0.0.0	watson.ppe.telemetry.microsoft.com
-0.0.0.0	watson.telemetry.microsoft.com
-0.0.0.0	watson.telemetry.microsoft.com.nsatc.net
-0.0.0.0	weather-edge.apple.com
-0.0.0.0	weather-edge.news.apple-dns.net
-0.0.0.0	websites.cdn.getfeedback.com
-0.0.0.0	wes.df.telemetry.microsoft.com
-0.0.0.0	wiki.mozilla.org
-0.0.0.0	wns.notify.windows.com.akadns.net
-0.0.0.0	wpad.mandela
-0.0.0.0	ws-eu.pusher.com
-0.0.0.0	ww400.smartadserver.com
-0.0.0.0	www.apple.com.edgekey.net.globalredir.akadns.net
-0.0.0.0	www.bejbej.ca
-0.0.0.0	www.bing.com
-0.0.0.0	www.eclipse.org
-0.0.0.0	www.google.ru
-0.0.0.0	www.google-analytics.com
-0.0.0.0	www.googleoptimize.com
-0.0.0.0	www.googletagmanager.com
-0.0.0.0	www.googletagservices.com
-0.0.0.0	www.gravatar.com
-0.0.0.0	www.i-dont-care-about-cookies.eu
-0.0.0.0	www.mozilla.org
-0.0.0.0	www.msftncsi.com
-0.0.0.0	www.net.cn
-0.0.0.0	www.reddit.com
-0.0.0.0	www.redditmedia.com
-0.0.0.0	www.redditstatic.com
-0.0.0.0	www.ssllabs.com
-0.0.0.0	www.sublimetext.com
-0.0.0.0	www.virustotal.com
-0.0.0.0	www.wormly.com
-0.0.0.0	www3.l.google.com
-0.0.0.0	wzrkt.com
-0.0.0.0	xbox.ipv6.microsoft.com
-0.0.0.0	xp.apple.com
-0.0.0.0	yui.yahooapis.com
-0.0.0.0	z.moatads.com
+ntp.org
+push.apple.com
+every1dns.net
+a.ads1.msn.com
+a.ads2.msads.net
+a.ads2.msn.com
+a.rad.msn.com
+a-msedge.net
+a1051.b.akamai.net
+a1806.dscb.akamai.net.0.1.cn.akamaitech.net
+a1826.w27.akamai.net
+a2047.dscb.akamai.net
+a2047.dscb.akamai.net.0.1.cn.akamaitech.net
+a239.gi3.akamai.net.0.1.cn.akamaitech.net
+a301.dscw62d.akamai.net
+ac3.msn.com
+accounts.firefox.com
+accounts.nvgs.nvidia.com
+acctcdn.msauth.net
+acsegateway.fe.apple-dns.net
+activate.glasswire.com
+activation.gfe.nvidia.com
+ad.doubleclick.net
+adblock-data.s3.brave.com
+add0n.com
+addons.palemoon.org
+addons-pa.clients6.google.com
+adeventtracker.spotify.com
+adnexus.net
+adnxs.com
+adresults.com
+ads.mopub.com
+ads.msn.com
+ads.stickyadstv.com
+ads1.msads.net
+ads1.msn.com
+ads5-noneu.truecaller.com
+adservice.google.co.in
+adservice.google.com
+adservice.google.com.warpfire
+aidc.apple.com
+aidps.atdmt.com
+aka-cdn-ns.adtech.de
+akadns.net
+akamaitech.net
+algolia.net
+alhapi.com
+a-msedge.net
+analytics.brave.com
+analytics.swiggy.com
+android.clients.google.com
+android.googleapis.com
+api.accuweather.com
+api.ad.intl.xiaomi.com
+api.goodnotes.email
+api.media.jio.com
+api.mediawire.in
+api.msn.com
+api.onesignal.com
+api.protonmail.ch
+api.protonvpn.ch
+api.radar.cloudflare.com
+api.revenuecat.com
+api.rewards.brave.com
+api.smoot.apple.com
+api.snapcraft.io
+api.tabnine.com
+api.vectornator.io
+api2.amplitude.com
+api-edge.apps.apple.com
+api-glb-use1c.smoot.apple.com
+apiv2.moengage.com
+app.adjust.world
+app.getreplybox.com
+appldnld.apple.com
+apple-dns.net
+apple-finance.query.yahoo.com
+appleid.idms-apple.com.akadns.net
+app-measurement.com
+apps.skype.com
+app-site-association.cdn-apple.com
+argo.svcmot.com
+array601.prod.do.dsp.mp.microsoft.com
+array602.prod.do.dsp.mp.microsoft.com
+array604.prod.do.dsp.mp.microsoft.com
+array606.prod.do.dsp.mp.microsoft.com
+array609.prod.do.dsp.mp.microsoft.com
+array610.prod.do.dsp.mp.microsoft.com
+array616.prod.do.dsp.mp.microsoft.com
+assets.msn.com
+assets.onestore.ms
+au.ff.avast.sec.miui.com
+audio-fa.scdn.co
+aus5.mozilla.org
+authbe.sec.intl.miui.com
+autopush.prod.mozaws.net
+az361816.vo.msecnd.net
+az512334.vo.msecnd.net
+az764295.vo.msecnd.net
+azwancan.trafficmanager.net
+b.ads1.msn.com
+b.ads2.msads.net
+b.rad.msn.com
+b.scorecardresearch.com
+b.thumbs.redditmedia.com
+balrog-cloudfront.prod.mozaws.net
+b-api.facebook.com
+batchlogging4-noneu.truecaller.com
+b-graph.facebook.com
+bifrost-api.hotstar.com
+bingsettingssearch.trafficmanager.net
+blocklist.palemoon.org
+brave.com
+brave-core-ext.s3.brave.com
+bravesoftware.com
+browser.events.data.microsoft.com
+browser.mi-img.com
+bs.serving-sys.com
+bsy9e7pgs8.execute-api.us-west-2.amazonaws.com
+businesscalls.googleapis.com
+c.apple.news
+c.atdmt.com
+c.msn.com
+c-msedge.net
+canvas-cdn-prod.azureedge.net
+captive.apple.com
+cdn.add0n.com
+cdn.atdmt.com
+cdn.datatables.net
+cdn.fwupd.org
+cdn.getreplybox.com
+cdn.jsdelivr.net
+cdn.optimizely.com
+cdn.segment.com
+cdn.sift.com
+cdn.siftscience.com
+cdn2.getreplybox.com
+cdn-apple.com
+cds26.ams9.msecn.net
+cf.zdassets.com
+chat-amplify-ai.cdn.ampproject.org
+checkappexec.microsoft.com
+checkoutshopper-live.adyen.com
+choice.microsoft.com
+choice.microsoft.com.nsatc.net
+cid-fd191d25df318ef9.users.storage.live.com
+cl1.apple.com
+clearurls.github.io
+client.wns.windows.com
+clientconfig.passport.net
+clients.config.office.net
+clients.l.google.com
+clients1.google.com
+clients2.google.com
+cloud.tabnine.com
+cm.g.doubleclick.net
+cmodmedia.live.streamtheworld.com
+cmodmedia206.live.streamtheworld.com
+collections.md.mp.microsoft.com
+collector.github.com
+color.firefox.com
+commnat-cohort-gc.ess.apple.com
+commnat-main-gc.ess.apple.com
+comodoca.com
+compatexchange.cloudapp.net
+componentupdater.brave.com
+config.edge.skype.com
+configuration.apple.com
+configuration.ls.apple.com
+connect.facebook.net
+connectivity-check.ubuntu.com
+connman.net
+content1.jdmagicbox.com
+content-signature-2.cdn.mozilla.net
+contile.services.mozilla.com
+continuum.dds.microsoft.com
+corp.sts.microsoft.com
+corpext.msitadfs.glbdns2.microsoft.com
+cp501.prod.do.dsp.mp.microsoft.com
+cp601.prod.do.dsp.mp.microsoft.com
+crashlytics2.l.google.com
+c-ring.msedge.net
+crl.certum.pl
+crl.comodo.net
+crl.sectigo.com
+crl.thawte.com
+crl.usertrust.com
+crlsets.brave.com
+cs12.wpc.v0cdn.net
+cscasha2.ocsp-certum.com
+cssubmissions.apple.com
+cxcs.microsoft.net
+d1rv88evu3pw45.cloudfront.net
+d2t77mnxyo7adj.cloudfront.net
+da.xboxservices.com
+daisy.ubuntu.com
+darkreader.github.io
+darkreader.org
+dashboard.snapcraft.io
+data.mistat.india.xiaomi.com
+data-ai.microsoft.com
+db3aqu.atdmt.com
+default.exp-tas.com
+dejavu.apple.com
+detectportal.firefox.com
+detectportal.firefox.com.warpfire
+detectportal.palemoon.org
+deviceintegritytokens-pa.googleapis.com
+device-metrics-us.amazon.com
+device-provisioning.googleapis.com
+df.telemetry.microsoft.com
+diagassets.apple.com
+diagnostics.support.microsoft.com
+digicert.com
+displaycatalog.mp.microsoft.com
+dit.whatsapp.net
+dl.delivery.mp.microsoft.com
+dl.discordapp.net
+dm3p.wns.notify.windows.com.akadns.net
+dmd.metaservices.microsoft.com
+dns.msftncsi.com
+doh.dns.apple.com
+download.tidal.com
+download.visualstudio.microsoft.com
+download.wireguard.com
+downloads.vivaldi.com
+drmalb-677588359.eu-west-3.elb.amazonaws.com
+dua.palemoon.org
+duckduckgo.com
+e.infogram.com
+e10843.dscj.akamaiedge.net.0.1.cn.akamaiedge.net
+e124713.dscj.akamaiedge.net.0.1.cn.akamaiedge.net
+e12582.dsce12.akamaiedge.net.0.1.cn.akamaiedge.net
+e1723.g.akamaiedge.net
+e4478.a.akamaiedge.net
+e5178.dsce12.akamaiedge.net.0.1.cn.akamaiedge.net
+e673.dsce9.akamaiedge.net
+e673.dsce9.akamaiedge.net.0.1.cn.akamaiedge.net
+e6858.dscx.akamaiedge.net
+e6987.a.akamaiedge.net
+e6987.dsce9.akamaiedge.net.0.1.cn.akamaiedge.net
+e69896.dscapi6.akamaiedge.net
+e69896.dscapi6.akamaiedge.net.0.1.cn.akamaiedge.net
+e8559.dsce12.akamaiedge.net.0.1.cn.akamaiedge.net
+e8652.dscx.akamaiedge.net
+ec.atdmt.com
+ecs.office.com
+edge.gycpi.b.yahoodns.net
+edge.microsoft.com
+edgekey.net
+edge-locations5-noneu.truecaller.com
+edge-mqtt.facebook.com
+ekop.intel.com
+ematrix.filmipop.com
+encrypted-tbn0.gstatic.com
+engage.jio.com
+eu.mesk.skill.music.a2z.com
+eu.web.skill.music.a2z.com
+eu-report.live.streamtheworld.com
+events.data.microsoft.com
+events.gfestage.nvidia.com
+experiments.apple.com
+exploresites-pa.googleapis.com
+extensions.coder.com
+extensionupdater.brave.com
+external-content.duckduckgo.com
+f7hk.a.sohu.com
+fastlane.rubiconproject.com
+favicon.mars51.com
+fba.apple.com
+fbs.smoot.apple.com
+fe2.update.microsoft.com.akadns.net
+fe3cr.delivery.mp.microsoft.com
+feedback.microsoft-hohm.com
+feedback.search.microsoft.com
+feedback.windows.com
+firebaselogging-pa.googleapis.com
+firebaseremoteconfig.googleapis.com
+firebase-settings.crashlytics.com
+firefox.settings.services.mozilla.com
+flex.msn.com
+f-log-extension.grammarly.io
+fmip.fe.apple-dns.net
+fp.msedge.net
+fp-afd.azureedge.us
+fp-afd.azurefd.net
+fp-as-nocache.azureedge.net
+freestar-io.videoplayerhub.com
+friend.gc.apple.com
+fs.microsoft.com
+g.live.com
+g.msn.com
+g.whatsapp.net
+gameplay.intel.com
+gateway.fe.apple-dns.net
+gateway.icloud.com
+gdmf.apple.com
+gdmf.apple.com.akadns.net
+geforce.com
+geo.prod.do.dsp.mp.microsoft.com
+geoapi.indiatimes.com
+geover.prod.do.dsp.mp.microsoft.com
+gew1-accesspoint-e-twjs.ap.spotify.com
+gfwsl.geforce.com
+ghs-svc-https-c46.ghs-ssl.googlehosted.com
+glb.cws.prod.dcat.dsp.trafficmanager.net
+gleam.io
+gleamjs.io
+global.video.intl.xiaomi.com
+googleads.g.doubleclick.net
+googleadservices.com
+go-updater.brave.com
+gql.reddit.com
+gql-realtime.reddit.com
+grant.rewards.brave.com
+graph.facebook.com
+graph.instagram.com
+growth-pa.googleapis.com
+gsa.apple.com
+gsa.idms-apple.com.akadns.net
+gsas.apple.com
+gsp64-ssl.ls.apple.com
+gsp85-ssl.ls.apple.com
+gspe11-ssl.ls.apple.com.edgekey.net
+gspe19-ssl.ls.apple.com
+gspe1-ssl.ls.apple.com
+gspe35-ssl.ls.apple.com
+gsp-ssl.ls.apple.com
+guzzoni.apple.com
+guzzoni-apple-com.v.aaplimg.com
+gvt1.com
+gwbudgetali.iymedia.me
+h1.msn.com
+heads-ak-spotify-com.akamaized.net
+helu.alhapi.com
+hktko1.icloud-content.com
+hn.algolia.com
+housekeeping.sudosecuritygroup.com
+html.duckduckgo.com
+html5-player.libsyn.com
+httpsapp-measurement.comsdk-exp
+httpswww.swiggy.com
+i.duckduckgo.com
+i.imgur.com
+i1.services.social.microsoft.com
+i1.services.social.microsoft.com.nsatc.net
+ichnaea-web.netflix.com
+icloud.com
+id.google.com
+identitytoolkit.googleapis.com
+image.timespoints.iimg.in
+images.ctfassets.net
+imasdk.googleapis.com
+img-prod-cms-rt-microsoft-com.akamaized.net
+impression.appsflyer.com
+improving.duckduckgo.com
+in.appcenter.ms
+inappcheck.itunes.apple.com
+inappcheck-lb.itunes-apple.com.akadns.net
+incoming.telemetry.mozilla.org
+inference.location.live.net
+infinitedata-pa.googleapis.com
+init.ess.apple.com
+init.push.apple.com
+init-p01md.apple.com
+inputsuggestions.msdxcdn.microsoft-ppe.com
+insiderservice.microsoft.com
+insideruser.microsoft.com
+insights-collector.newrelic.com
+instagram.c10r.facebook.com
+intc-keyid-17a00575d05e58e3881210bb98b1045bb4c30639.microsoftaik.azure.net
+ipcdn.apple.com
+iphone-ld.apple.com
+iphonesubmissions.apple.com
+iphonesubmissions.apple.com.akadns.net
+ipv4.duiadns.net
+isitup.org
+itunes-cdn.itunes-apple.com.akadns.net
+jcmsfd.account.microsoft.com
+jioads.akamaized.net
+jiomedia.akamaized.net
+jpdp.jpdc.jiophone.net
+js.stripe.com
+jsdelivr.map.fastly.net
+js-sec.indexww.com
+ka-f.fontawesome.com.cdn.cloudflare.net
+keyvalueservice.fe.apple-dns.net
+kit.fontawesome.com
+kit.fontawesome.com.cdn.cloudflare.net
+k-ring.msedge.net
+kt-prod.apple.com
+laptop-updates.brave.com
+launches.appsflyer.com
+lb1.www.ms.akadns.net
+lcdn-locator.apple.com
+licensing.mp.microsoft.com
+link-reports-noneu.truecaller.com
+links.duckduckgo.com
+live.rads.msn.com
+livetileedge.dsx.mp.microsoft.com
+locate.measurementlab.net
+location.services.mozilla.com
+location.services.mozilla.com.warpfire
+locprod1-elb-eu-west-1.prod.mozaws.net
+logfiles.zoom.us
+logincdn.msauth.net
+logs.juspay.in
+logs-01.loggly.com
+l-ring.msedge.net
+m.adnxs.com
+m.hotmail.com
+mail-ads.google.com
+market.xiaomi.com
+marketplace.visualstudio.com
+mask.icloud.com
+mask-api.icloud.com
+mask-h2.icloud.com
+mdh-pa.googleapis.com
+mem.gfx.ms
+messaging.deezer.com
+messenger-noneu.truecaller.com
+mesu.apple.com
+mesu-cdn.origin-apple.com.akadns.net
+metrics.icloud.com
+metrics.torproject.org
+mimir.vivaldi.com
+misc.spotifycdn.com
+mobileapp.apple.com
+mobile-collector.newrelic.com
+mobile-data.s3.brave.com
+mobilenetworkscoring-pa.googleapis.com
+moto-cds.appspot.com
+mozilla.cloudflare-dns.com
+mrb.upapi.net
+mrodevicemgr.officeapps.live.com
+mrs08s02-in-x0a.1e100.net
+msedge.api.cdp.microsoft.com
+msedge.f.tlu.dl.delivery.mp.microsoft.com
+msedge.net
+msftconnecttest.com
+msftncsi.com
+msnbot-65-55-108-23.search.msn.com
+msntest.serving-sys.com
+musicart.xboxlive.com
+na.web.skill.music.a2z.com
+nav.smartscreen.microsoft.com
+nc-pod4-smp-device.apple.com
+netcts.cdn-apple.com
+netdna.bootstrapcdn.com
+news.iadsdk.apple.com
+nexusrules.officeapps.live.com
+normandy.cdn.mozilla.net
+notifications5-noneu.truecaller.com
+npcoins.indiatimes.com
+ntp.msn.com
+ntp.ubuntu.com
+o.ss2.us
+o45439.ingest.sentry.io
+o497639.ingest.sentry.io
+oca.telemetry.microsoft.com
+oca.telemetry.microsoft.com.nsatc.net
+ocsp.digicert.com
+ocsp.intel.com
+ocsp.msocsp.com
+ocsp.pki.goog
+ocsp.quovadisoffshore.com
+ocsp.rootca1.amazontrust.com
+ocsp.rootg2.amazontrust.com
+ocsp.sectigo.com
+ocsp.starfieldtech.com
+ocsp.thawte.com
+ocsp.usertrust.com
+ocsp2.apple.com
+ocsp-lb.apple.com.akadns.net
+ocsps.ssl.com
+office.net
+officecdn.microsoft.com
+officeclient.microsoft.com
+ogs.google.com
+olympia.prod.mozaws.net
+oneclient.sfx.ms
+oneocsp.microsoft.com
+onesignal.com
+open-vsx.org
+otf.msn.com
+otx.alienvault.com
+p111-fmfmobile.icloud.com
+p111-quota.icloud.com
+p25-imap.mail.me.com.akadns.net
+p25-mailws.icloud.com
+p3a.brave.com
+p42-caldav.icloud.com
+p42-mailws.icloud.com
+p49-fmf.icloud.com
+p49-fmfmobile.icloud.com
+p49-fmip.icloud.com
+p53-imap.mail.me.com.akadns.net
+p53-mailws.icloud.com
+packages.dmd.metaservices.microsoft.com
+pagead2.googlesyndication.com
+pagead46.l.doubleclick.net
+palemoon.org
+pancake.apple.com
+part-0020.t-0009.t-msedge.net
+partiality.itunes.apple.com
+partner.googleadservices.com
+partnerad.l.doubleclick.net
+passport.mobilenations.com
+paymentinstruments.mp.microsoft.com
+payments.juspay.in
+pcdn.brave.com
+peoplestackwebexperiments-pa.clients6.google.com
+phonedeviceverification-pa.googleapis.com
+ping.bejbej.ca
+pixel.quantserve.com
+pki.intel.com
+platform.instagram.com
+plugins.jetbrains.com
+plus.l.google.com
+pool.ntp.org
+popper.ai
+pps.whatsapp.net
+pre.footprintpredict.com
+premium-noneu.truecaller.com
+presence-grpc-noneu.truecaller.com
+preview.msn.com
+preview.redd.it
+pricelist.skype.com
+prod.detectportal.prod.cloudops.mozgcp.net
+prod.intellicode.vsengsaas.visualstudio.com
+profile.gc.apple.com
+profile.gc.fe.apple-dns.net
+protonstatus.com
+proxy.safebrowsing.apple
+proxy.vox-cpaas.in
+pubads.g.doubleclick.net
+purchase.mp.microsoft.com
+push.services.mozilla.com
+pv.sohu.com
+q-ring.msedge.net
+query.ess.apple.com
+quota.fe.apple-dns.net
+qwant.com
+r3.o.lencr.org
+rad.live.com
+rad.msn.com
+rcs-acs-airtel-india.jibe.google.com
+rcs-acs-vodafone-idea-india.jibe.google.com
+recade.clmbtech.com
+redir.metaservices.microsoft.com
+redirector.brave.com
+redirector.gvt1.com
+registry.npmjs.org
+registry.yarnpkg.com
+release.kite.com
+releases.libreelec.tv
+reports.crashlytics.com
+reports.wes.df.telemetry.microsoft.com
+resolver.msg.global.xiaomi.net
+rewards.brave.com
+rm-as.palemoon.org
+rules2.clearurls.xyz
+rum-http-intake.logs.datadoghq.com
+s.gateway.messenger.live.com
+s.mopub.com
+s.w.org
+s1.symcb.com
+s2k7tnzlhrpw.statuspage.io
+safebrowsing.apple
+safebrowsing.brave.com
+safebrowsing.googleapis.com
+sandbox.itunes.apple.com
+sb.scorecardresearch.com
+sb-ssl.brave.com
+schemas.microsoft.akadns.net 
+schemastore.azurewebsites.net
+scone-pa.clients6.google.com
+secure.adnxs.com
+secure.flashtalking.com
+secure.gravatar.com
+securepubads.g.doubleclick.net
+self.events.data.microsoft.com
+semanticlocation-pa.googleapis.com
+semanticlocation-pa.googleapis.com.can
+sentry.io
+service.weather.microsoft.com
+services.gfe.nvidia.com
+services.gradle.org
+services.prod.mozaws.net
+services.wes.df.telemetry.microsoft.com
+settings.crashlytics.com
+settingsfd-geo.trafficmanager.net
+settings-prod-sea-2.southeastasia.cloudapp.azure.com
+settings-sandbox.data.microsoft.com
+settings-win.data.microsoft.com
+setup.fe.apple-dns.net
+setup.icloud.com
+sg2p.wns.notify.windows.com.akadns.net
+share.newsroom.apple
+sharing-config.spotifycdn.com
+shavar.services.mozilla.com
+shavar.services.mozilla.com.warpfire
+sheets.googleapis.com
+siri.com
+slike.indiatimes.com
+sls.update.microsoft.com.akadns.net
+smp-device.apple.com
+smp-device-content.apple.com
+so.2mdn.net
+social.ndtv.com
+sparkcdneus2.azureedge.net
+sparkcdnwus2.azureedge.net
+spo-ring.msedge.net
+sqm.df.telemetry.microsoft.com
+sqm.telemetry.microsoft.com
+sqm.telemetry.microsoft.com.nsatc.net
+ssl.google-analytics.com
+ssl-google-analytics.l.google.com
+ssllabs.com
+ssl-static.libsyn.com
+star.c10r.facebook.com
+starfieldtech.com
+start.duckduckgo.com
+static.2mdn.net
+static.alhapi.com
+static.bejbej.ca
+static.chartbeat.com
+static.clmbtech.com
+static.growthrx.in
+static.libsyn.com
+static.nvidiagrid.net
+static.social.ndtv.com
+static1.brave.com
+staticcdn.duckduckgo.com
+statics-marketingsites-eas-ms-com.akamaized.net
+statsfe1.ws.microsoft.com
+statsfe2.update.microsoft.com.akadns.net
+statsfe2.ws.microsoft.com
+stattprint.s.llnwi.net
+status.geotrust.com
+storeedgefd.dsx.mp.microsoft.com
+store-images.microsoft.com
+store-images.s-microsoft.com
+subca.ocsp-certum.com
+sublimetext.com
+subs.timesofindia.com
+support.mozilla.org
+survey.watson.microsoft.com
+swallow.apple.com
+t-0009.t-msedge.net
+telecommand.telemetry.microsoft.com
+telecommand.telemetry.microsoft.com.nsatc.net
+telemetry.appex.bing.net
+telemetry.malwarebytes.com
+telemetry.microsoft.com
+telemetry.urs.microsoft.com
+telephonyspamprotect-pa.googleapis.com
+testflight.apple.com
+tilanalytics.timesinternet.in
+time.android.com
+time.apple.com
+time.izatcloud.net
+time.windows.com
+time-ios.apple.com
+tinyurl.com
+tinywall.pados.hu
+tlu.dl.delivery.mp.microsoft.com
+tm.lg.prod.aadmsa.trafficmanager.net
+t-msedge.net
+token.safebrowsing.apple
+tpapi.timespoints.com
+tpc.googlesyndication.com
+tr.www.cloudflare.com
+track.adform.net
+tracking.india.miui.com
+tracking.shaadi.com
+translate.google.com
+trendmicro.com
+tsfe.trafficmanager.net
+tsfe.trafficshaping.dsp.mp.microsoft.com
+tvid.in
+uci.cdn.office.net
+ui.skype.com
+ui-avatars.com
+universalstore.streaming.mediaservices.windows.net
+unpkg.com
+update.code.visualstudio.com
+update.glasswire.com
+update.googleapis.com
+update.libreelec.tv
+update.tabnine.com
+update.vivaldi.com
+updates.bravesoftware.com
+updates.cdn-apple.com
+updates-cdn.bravesoftware.com
+updates-http.cdn-apple.com
+use.typekit.net
+user.india.com
+userreco.indiatimes.com
+v10.events.data.microsoft.com
+v20.events.data.microsoft.com
+valid.apple.com
+variations.brave.com
+verifiedsms-pa.googleapis.com
+verifiedsms-pa.googleapis.com.warpfire
+versioncheck.prod.mozaws.net
+videoplayer.indiatimes.com
+view.atdmt.com
+vivaldi.com
+voip-noneu.truecaller.com
+vortex.data.microsoft.com
+vortex-bn2.metron.live.com.nsatc.net
+vortex-cy2.metron.live.com.nsatc.net
+vortex-sandbox.data.microsoft.com
+vortex-win.data.microsoft.com
+vpn.mozilla.org
+vscodeexperiments.azureedge.net
+waitlist.goodnotesplatform.com
+watson.live.com
+watson.microsoft.com
+watson.ppe.telemetry.microsoft.com
+watson.telemetry.microsoft.com
+watson.telemetry.microsoft.com.nsatc.net
+weather-edge.apple.com
+weather-edge.news.apple-dns.net
+websites.cdn.getfeedback.com
+wes.df.telemetry.microsoft.com
+wiki.mozilla.org
+wns.notify.windows.com.akadns.net
+wpad.mandela
+ws-eu.pusher.com
+ww400.smartadserver.com
+www.apple.com.edgekey.net.globalredir.akadns.net
+www.bejbej.ca
+www.bing.com
+www.eclipse.org
+www.google.ru
+www.google-analytics.com
+www.googleoptimize.com
+www.googletagmanager.com
+www.googletagservices.com
+www.gravatar.com
+www.i-dont-care-about-cookies.eu
+www.mozilla.org
+www.msftncsi.com
+www.net.cn
+www.reddit.com
+www.redditmedia.com
+www.redditstatic.com
+www.ssllabs.com
+www.sublimetext.com
+www.virustotal.com
+www.wormly.com
+www3.l.google.com
+wzrkt.com
+xbox.ipv6.microsoft.com
+xp.apple.com
+yui.yahooapis.com
+z.moatads.com
