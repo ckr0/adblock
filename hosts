@@ -403,7 +403,6 @@
 0.0.0.0	location.services.mozilla.com.warpfire
 0.0.0.0	locprod1-elb-eu-west-1.prod.mozaws.net
 0.0.0.0	logfiles.zoom.us
-0.0.0.0	login.live.com
 0.0.0.0	logincdn.msauth.net
 0.0.0.0	logs.juspay.in
 0.0.0.0	logs-01.loggly.com
